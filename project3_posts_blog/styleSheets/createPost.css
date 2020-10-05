@@ -1,0 +1,30 @@
+.admin_pics{
+    width:200px;
+}
+
+#del{
+    width: 50px;
+}
+
+table{
+    margin: auto;
+}
+
+td{
+    width: 12em;
+    text-align:center;
+}
+
+input#sub{
+    margin:3em auto;
+}
+
+textarea{
+    width:400px;
+}
+
+.jumbotron{
+    background-image:url("../images/addPic.jpg");
+    background-size: cover;
+    height: 20em;
+}

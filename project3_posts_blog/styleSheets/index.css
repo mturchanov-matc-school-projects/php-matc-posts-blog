@@ -1,0 +1,51 @@
+
+
+
+
+.postPic{
+    width:100%;
+    max-width:400px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+
+h2 {
+    clear: both;
+    text-align:center;
+    margin:2em;
+}
+
+h3{
+    font-weight: bold;
+}
+
+
+table{
+    margin: auto;
+    
+}
+td{
+    padding: 1em;
+}
+img{
+    max-width: 30em;
+    height: auto;
+    margin: 2em;
+}
+#profiles{
+    margin: 3em;
+}
+
+div#photo-wrapper{
+    background-color:#fff;
+}
+
+
+
+footer {
+    /*position: absolute;*/
+    /*bottom: 0;*/
+    /*width: 100%;*/
+}
